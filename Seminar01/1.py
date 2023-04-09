@@ -1,2 +1,3 @@
-n = 700
-print(n)
+n = 750
+m = 1550
+print((m//n) + int(bool(m//n)))
